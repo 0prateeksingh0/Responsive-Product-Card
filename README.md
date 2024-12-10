@@ -22,13 +22,15 @@ This project showcases a responsive product card built using **Tailwind CSS**. T
 - **Hover Effects**:
   - The "Buy Now" button includes hover styling (`hover:bg-blue-600`) for an interactive experience.
 
+## Preview
+Here's a preview of the responsive product card:
+
+![Product Card Preview](https://github.com/user-attachments/assets/62a9b5a6-324f-4144-95c9-782cfd31214f)
+
 ## Usage
 1. Copy the code and save it as `product-card.html`.
 2. Open the HTML file in your browser.
 3. Resize the browser window to see how the card adjusts at different breakpoints (small, medium, and large screens).
-
-## Preview
-![Product Card Preview](screenshot.png)
 
 ## Installation
 Ensure you have an internet connection to load the Tailwind CSS CDN in the `<script>` tag:
